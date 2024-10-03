@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: src/search/Main.java
+    visible: true
+    learner_created: false
+  - name: test/SearchEngineTests.java
+    visible: false
+    learner_created: false
+  - name: test/SimpleSearchEngineTest.java
+    visible: false
+    learner_created: false
+  - name: names.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/66/stages/357/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 03 Oct 2024 09:09:58 UTC"
+record: 4

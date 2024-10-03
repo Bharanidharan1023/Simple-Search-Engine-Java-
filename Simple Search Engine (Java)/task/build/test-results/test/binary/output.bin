@@ -1,0 +1,35 @@
+[1;31m
+Start test 1[0m
+NThe file text.txt does not exist. Please create the file and add people data.
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+> 1
++Select a matching strategy: ALL, ANY, NONE
+> ANY
+5Enter a name or email to search all suitable people:
+> bob gallien@evilcorp.com
+No matching people found.
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+> 2
+No data available.
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+> 1
++Select a matching strategy: ALL, ANY, NONE
+> NONE
+5Enter a name or email to search all suitable people:
+> bob gallien@evilcorp.com
+No matching people found.
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit
+> 0
+Bye!
